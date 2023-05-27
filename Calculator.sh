@@ -1,11 +1,14 @@
 #!/bin/bash
 
 # Solicitar al usuario el primer numero
+echo
 read -p "Ingresa el primer numero: " num1
 # Solicitar al usuario el segundo numero
+echo
 read -p "Ingresa el segundo numero: " num2
 
 # Mostrar las opciones disponibles
+echo
 echo "Seleccionar la operacion:"
 echo "1. Suma"
 echo "2. Resta"
@@ -13,6 +16,7 @@ echo "3. Multiplicacion"
 echo "4. Division"
 
 # Solicitar al usuario que elija una opcion
+echo
 read -p "Ingresa el numero de la operacion que desea realizar:" opcion
 
 # Realizar la operación seleccionada
@@ -35,4 +39,5 @@ case $opcion in
 esac
 
 # Mostrar el resultado
+echo
 echo "El resultado de la $operacion es: $resultado"
