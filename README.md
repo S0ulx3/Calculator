@@ -12,7 +12,7 @@ chmod +x Calculator.sh
 ./Calculator.sh  o  bash Calculator.sh
 
 # English
-#Calculator
+# Calculator
 It is a calculator with its basic functions
 # Instalation
 - Clone the repository
