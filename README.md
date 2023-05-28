@@ -9,21 +9,23 @@ Es una calculadora con sus funciones basicas
 - Clonamos el repositorio •
   
   git clone https://github.com/S0ulx3/Calculator
-------------------------------------------------
+
 -------------------------------------
 - Accedemos a la carpeta Calculator •
-  
+´´bash
   cd Calculator
--------------------------------------
+´´
+
 ---------------------------------------------------------
 - Otorgamos permisos de ejecución al archivo ejecutable •
-  
+´´bash  
   chmod +x Calculator.sh
----------------------------------------------------------
+´´
 ----------------------------------------
 - Ejecutamos el archivo •
-
+´´bash
   ./Calculator.sh  o  bash Calculator.sh
+´´
 ----------------------------------------
 
 # English
