@@ -12,20 +12,21 @@ Es una calculadora con sus funciones basicas
 
 -------------------------------------
 - Accedemos a la carpeta Calculator •
-´´bash
+´´´bash
   cd Calculator
-´´
+´´´
 
 ---------------------------------------------------------
 - Otorgamos permisos de ejecución al archivo ejecutable •
-´´bash  
+´´´bash  
   chmod +x Calculator.sh
-´´
-----------------------------------------
+´´´
+---------------------------------------------------
+
 - Ejecutamos el archivo •
-´´bash
+´´´bash
   ./Calculator.sh  o  bash Calculator.sh
-´´
+´´´
 ----------------------------------------
 
 # English
