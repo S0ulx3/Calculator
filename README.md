@@ -1,11 +1,13 @@
 ![Calculator](https://github.com/S0ulx3/Calculator/blob/main/Calculator.png)
 
-# Español
-# Calculadora
-Es una calculadora con sus funciones basicas
+----------------------------------------------------------------------------
 
 - [Instalación Español](#instalacion-español)
 - [English Instalation](#english-instalation)
+
+# Español
+# Calculadora
+Es una calculadora con sus funciones basicas
 
 ### Instalacion Español
 ---------------------------------------------
