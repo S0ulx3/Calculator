@@ -4,7 +4,7 @@
 # Calculadora
 Es una calculadora con sus funciones basicas
 
-- [Instalación_Español](#instalacion-español)
+- [Instalación Español](#instalacion-español)
 - [English Instalation](#english-instalation)
 
 ### Instalacion Español
