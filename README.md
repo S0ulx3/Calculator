@@ -1,6 +1,6 @@
 ![Calculator](https://github.com/S0ulx3/Calculator/blob/main/Calculator.png)
 
-----------------------------------------------------------------------------
+----------------------------------------------------------------
 
 - [Instalación Español](#instalacion-español)
 - [English Instalation](#english-instalation)
