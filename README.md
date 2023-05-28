@@ -1,6 +1,6 @@
 | Calculator |
 | ---------- |
-|[Index](https://github.com/S0ulx3/Calculator/blob/main/Calculator.png)
+|[Index](https://github.com/S0ulx3/Calculator/blob/main/Calculator.png)|
 
 ----------------------------------------------------------------
 # Instalaciones / Instalations
