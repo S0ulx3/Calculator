@@ -4,7 +4,10 @@
 # Calculadora
 Es una calculadora con sus funciones basicas
 
-# Instalación
+- [Instalación_Español](#instalacion-español)
+- [English Instalation](english-instalation)
+
+### Instalacion Español
 ---------------------------------------------
 • Clonamos el repositorio •
 ```bash
@@ -15,7 +18,6 @@ git clone https://github.com/S0ulx3/Calculator
 ```bash
   cd Calculator
 ```
-
 ---------------------------------------------
 • Otorgamos permisos de ejecución al archivo ejecutable •
 ```bash
@@ -29,11 +31,11 @@ git clone https://github.com/S0ulx3/Calculator
 ```
 ----------------------------------------
 
-# English
+### English Instalation
 # Calculator
 It is a calculator with its basic functions
 
-# Instalation
+### Instalation
 ---------------------------------------------
 • Clone the repository •
 ```bash
