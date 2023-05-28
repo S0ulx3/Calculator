@@ -1,3 +1,5 @@
+![Calculator](https://github.com/S0ulx3/Calculator/blob/main/Calculator.png)
+
 # Español
 # Calculadora
 Es una calculadora con sus funciones basicas
