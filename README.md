@@ -25,13 +25,13 @@ git clone https://github.com/S0ulx3/Calculator
 ---------------------------------------------
 • Otorgamos permisos de ejecución al archivo ejecutable •
 ```bash
-  chmod +x Calculator.sh
+  chmod +x Calculator
 ```
 ---------------------------------------------
 
 • Ejecutamos el archivo •
 ```bash
-  ./Calculator.sh  o  bash Calculator.sh
+  ./Calculator  o  bash Calculator
 ```
 ----------------------------------------
 
@@ -58,6 +58,6 @@ chmod +x Calculator
 -----------------------------------------
 • We execute the file •
 ```bash
-./Calculator.sh  or  bash Calculator.sh
+./Calculator  or  bash Calculator
 ```
 -----------------------------------------
