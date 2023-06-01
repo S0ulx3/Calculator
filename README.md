@@ -13,28 +13,18 @@ Es una calculadora con sus funciones basicas
 
 ### Instalacion Español
 ---------------------------------------------
-• Clonamos el repositorio •
+• Clonamos el repositorio,  •
 ```bash
 git clone https://github.com/S0ulx3/Calculator
 ```
 -------------------------------------
-• Accedemos a la carpeta Calculator •
+• Accedemos a la carpeta clonada, otorgamos permisos de ejecución al archivo ejecutable y ejecutamos el archivo
 ```bash
-  cd Calculator
+  cd Calculator 
+  chmod +x Calculator && ./Calculator
 ```
----------------------------------------------
-• Otorgamos permisos de ejecución al archivo ejecutable •
-```bash
-  chmod +x Calculator
-```
----------------------------------------------
-
-• Ejecutamos el archivo •
-```bash
-  ./Calculator  o  bash Calculator
-```
-----------------------------------------
-
+--------------------------------------------
+--------------------------------------------
 ### English Instalation
 # Calculator
 It is a calculator with its basic functions
@@ -46,18 +36,8 @@ It is a calculator with its basic functions
 git clone https://github.com/S0ulx3/Calculator
 ```
 -----------------------------------
-• We access the Calculator folder •
+• Access the cloned folder, grant execution permissions to the executable file and execute the file
 ```bash
 cd Calculator
+chmod +x Calculator && ./Calculator
 ```
----------------------------------------
-• We grant execution permissions to the executable file •
-```bash
-chmod +x Calculator
-```
------------------------------------------
-• We execute the file •
-```bash
-./Calculator  or  bash Calculator
-```
------------------------------------------
