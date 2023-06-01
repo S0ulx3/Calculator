@@ -9,7 +9,7 @@
 
 # Español
 # Calculadora
-Es una calculadora con sus funciones basicas
+Es una calculadora con sus funciones basicas hecha en bash
 
 ### Instalacion Español
 ---------------------------------------------
@@ -27,7 +27,7 @@ git clone https://github.com/S0ulx3/Calculator
 --------------------------------------------
 ### English Instalation
 # Calculator
-It is a calculator with its basic functions
+It is a calculator with its basic functions made in bash
 
 ### Instalation
 ---------------------------------------------
