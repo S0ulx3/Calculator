@@ -1,6 +1,6 @@
 | Calculator |
 | ---------- |
-|![f](https://github.com/S0ulx3/Calculator/blob/main/Calculator.png)
+|![f](https://github.com/S0ulx3/Calculator/blob/main/Calculaor.png)
 
 ----------------------------------------------------------------
 # Instalaciones / Instalations
